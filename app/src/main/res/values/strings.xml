@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeezerApi</string>
+    <string name="managementView">ManagementView</string>
+    <string name="duracion">Duracion:</string>
+    <string name="artista">Artista:</string>
+    <string name="nombre">nombre</string>
+</resources>
